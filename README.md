@@ -1,7 +1,7 @@
 # GlobalGroceryPrice-Analysis
 Data Analysis Project
 
-Description: I created a dataset using Python's BeautifulSoup library for web scraping, containing information about countries and the prices of grocery items. I used the Python pandas library for exploratory data analysis to uncover relevant insights. Finally, I created a dashboard in Tableau to present the key
+Description: I created a dataset using Python's BeautifulSoup library for web scraping, containing information about countries and the prices of grocery items. I used the Python pandas library for exploratory data analysis to uncover relevant insights. Finally, I created a dashboard in Tableau to present the key findings
 
 Dataset Overview:
 Columns/Variables: Country,Continent,Sub Region,GN/GS,Income_Category,GDP Per Capita(PPP),Nominal GDP(USD million),Inflation(%), (Food_Basket_Price(in $): (Flour(1kg), Rice(1kg),Sugar(1kg),Salt(1kg),Milk(1L),Eggs(Dozen),Cooking Oil(1L),Chicken(1kg), Potato(1kg), Onion(1kg), Banana(1kg), Tomato(1kg), Orange(1Kg), Coca-Cola(0.5L), Bottled Water(1.5L))
